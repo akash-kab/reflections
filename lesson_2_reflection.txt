@@ -1,0 +1,25 @@
+Reflection 1: 
+
+What happens when you initialize a repository? Why do you need
+to do it?
+
+
+An empty repository is created which contains no commit. It 
+works that way so that it won't automatically include files 
+you actually don't want to keep track of. 
+
+------------------------------------------------------------
+
+Reflection 2:
+
+How is the staging area different from the working directory 
+and the repository? What value do you think it offers?
+
+A staging area is different from the working directory and
+repository because we can add the files that we want to change
+and add a seperate commit on it.
+
+------------------------------------------------------------
+
+Reflection 3:
+
