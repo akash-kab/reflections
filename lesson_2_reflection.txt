@@ -48,4 +48,26 @@ Reflection 5:
 
 How do the diagrams help you visualize the branch structure?
 
-Diagrams help us address where each commit is, and where new branches are starting.
+Diagrams help us address where each commit is, and where new branches are starting
+
+-----------------------------------------------------------
+
+Reflection 6:
+
+What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do?
+
+The result is that all the changes are added togeter in the 
+master branch again, including the commits from both branches.
+
+----------------------------------------------------------
+
+Reflection 7:
+
+What are the pros and cons of Git’s automatic merging vs.
+always doing merges manually
+
+It is usually easier and not as messy. It does not take too
+much time.
+
+----------------------------------------------------------
