@@ -15,4 +15,22 @@ having Git automatically stay up-to-date with your remote
 repository?
 
 Pulling changes manually will help us know exactly what is in 
-code, and it will not change without us knowing.
+code, and it will not change without us knowing
+
+--------------------------------------------------------------
+
+Reflection 3:
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+Forks - When you're copying the whole repository from one
+		user's GitHub to another user's GitHub.
+Clones - When you copy a whle repository from the GitHub to a
+		local computer, so from GitHub to computer.
+Branches - When you're making a change that might add bugs, 
+			so new branch is created to make sure the program
+			still runs properly.
+
+-------------------------------------------------------------
+
