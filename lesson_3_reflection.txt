@@ -34,3 +34,13 @@ Branches - When you're making a change that might add bugs,
 
 -------------------------------------------------------------
 
+Reflection 4:
+
+What is the benefit of having a copy of the last known state
+of the remote stored locally?
+
+If it is stored locally, we will always have access to it,
+even if offline. 
+
+------------------------------------------------------------
+
